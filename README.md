@@ -1,6 +1,6 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Ever Ni
 
-<img align="right" width="300" src="https://s2.loli.net/2022/01/16/iNSvCjyLaXBrIHu.gif" />
+<img align="right" width="300" src="https://s2.loli.net/2022/01/17/esUDIrbXJ7h5tpL.gif" />
 
 ## **GitHub Estatísticas**
 

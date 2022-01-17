@@ -1,7 +1,7 @@
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Ever Ni
 <br>
 <img align="right" width="300" src="https://s2.loli.net/2022/01/17/esUDIrbXJ7h5tpL.gif" />
-<img align="right" width="300" src="https://s2.loli.net/2022/01/17/ARfK5mGo6tV2uXz.gif" />
+<!-- <img align="right" width="300" src="https://s2.loli.net/2022/01/17/ARfK5mGo6tV2uXz.gif" /> -->
 <!-- <img align="left" width="300" src="https://s2.loli.net/2022/01/17/XyNROa3nhZEBp5u.gif" /> -->
 
 ## **GitHub Estatísticas**
